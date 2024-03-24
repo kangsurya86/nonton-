@@ -3,12 +3,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malay" tvg-id="TV1" tvg-name=TV1", TV1 HD
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Lifestyle & Documentary" tvg-id="DiscoveryChannel" tvg-name="DiscoveryChannel", Discovery Channel HD Schdule
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.
 
 
 
@@ -24,6 +19,8 @@ https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/disc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
+
+
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
